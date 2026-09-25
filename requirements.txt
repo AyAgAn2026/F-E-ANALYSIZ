@@ -7,3 +7,4 @@ matplotlib
 seaborn
 openpyxl
 xlrd
+patsy>=1.0.3
